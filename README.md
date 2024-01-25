@@ -3,7 +3,7 @@
 I am a student at UCU, Computer Science
 ```
 
-Interested in AI *(especially ML and agents for games)*, Rust *(though, not good at it)* and Python
+Interested in Python, AI *(especially ML and agents for games)* and Rust *(though, not good at it)*
 <br><br>
 
 My other repos:
