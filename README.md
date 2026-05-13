@@ -9,6 +9,7 @@ I am a student at UCU, Computer Science
 You should definitely check out my website: [r1a.nl/0](https://r1a.nl/0) (sry, still *WIP*)
 
 #### My other repos:
+##### [<img src="https://github.com/user-attachments/assets/bd9f7c66-b759-4c82-baaa-e7c02be77da7" width="24rem"> Bachelor's Thesis](https://github.com/goof-an-odd-husky)<br>
 ##### [<img src="https://cdn1.iconfinder.com/data/icons/science-and-education-2/44/hat-512.png" width="24rem"> Student Assignments](https://github.com/rhusiev-student)<br>
 ##### [<img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" width="22rem"> ᠌ GitLab](https://gitlab.com/rad1an)
 
